@@ -1,0 +1,9 @@
+Password manager will be composed out of ? modules:
+
+The design will be as follows -
+The passwords will be saved in a file where every password and username will have a tag that is unencrypted.
+that way whenever we want to add or access a certain password we'll decrypt/encrypt only the password we need.
+
+
+1) GUI
+
