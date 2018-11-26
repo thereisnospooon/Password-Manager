@@ -15,7 +15,7 @@ class Manager:
 
     def add_password(self, tag: str, username: str, password: str):
         """
-        adds a password to the file
+        adds a password to the file.
         :param tag: Tag of the password
         :param username: username
         :param password: password
